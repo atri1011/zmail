@@ -9,8 +9,8 @@ compatibility_date = "2025-03-01"
 # 启用 D1 数据库
 [[d1_databases]]
 binding = "DB"
-database_name = "emailtest"
-database_id = "6a6baeab-b01c-4cc5-8f4b-65b6a66fe217"  # 需要替换为您的实际数据库 ID
+database_name = "tempmail"
+database_id = "2eb383de-1b01-4b1a-8aba-a0fde74ba3ea"  # 需要替换为您的实际数据库 ID
 
 # 配置邮件处理
 [triggers]
